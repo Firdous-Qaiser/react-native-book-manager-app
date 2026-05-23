@@ -10,7 +10,7 @@ A modern mobile application built with React Native and Expo, integrated with Ap
 ![Register Screen](./screenshots/authentication (Register).jpeg)
 
 ### Login Screen
-![Login Screen](./screenshots/authentication (Login).jpeg))
+![Login Screen](./screenshots/authentication (Login).jpeg)
 
 ### Home Screen
 ![Home Screen](./screenshots/Profile.jpeg)

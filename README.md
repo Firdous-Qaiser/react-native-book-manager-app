@@ -13,7 +13,7 @@ A modern mobile application built with React Native and Expo, integrated with Ap
 [Login Screen](./screenshots/authentication (Login).jpeg)
 
 ### Home Screen
-[Home Screen](./screenshots/Profile.jpeg)
+[Home Screen](./screenshots/authentication (Login).jpeg)
 
 ### Add Book Screen
 [Add Book Screen](./screenshots/create book in DB.jpeg)

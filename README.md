@@ -7,22 +7,22 @@ A modern mobile application built with React Native and Expo, integrated with Ap
 ## Screenshots
 
 ### Register Screen
-![Register Screen](./screenshots/authentication (Register).jpeg)
+[Register Screen](./screenshots/authentication (Register).jpeg)
 
 ### Login Screen
-![Login Screen](./screenshots/authentication (Login).jpeg)
+[Login Screen](./screenshots/authentication (Login).jpeg)
 
 ### Home Screen
-![Home Screen](./screenshots/Profile.jpeg)
+[Home Screen](./screenshots/Profile.jpeg)
 
 ### Add Book Screen
-![Add Book Screen](./screenshots/create book in DB.jpeg)
+[Add Book Screen](./screenshots/create book in DB.jpeg)
 
 ### Book List Screen
-![Book List Screen](./screenshots/Fetch from db.jpeg)
+[Book List Screen](./screenshots/Fetch from db.jpeg)
 
 ### Delete Book Functionality
-![Delete Book Functionality](./screenshots/manipulation.jpeg)
+[Delete Book Functionality](./screenshots/manipulation.jpeg)
 
 ---
 

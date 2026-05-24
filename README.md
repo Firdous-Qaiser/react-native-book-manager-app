@@ -22,7 +22,7 @@ https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Scre
 https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/Fetch%20from%20db.jpeg
 
 ### Delete Book Functionality
-https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/manipulation.jpeg
+https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/Delete%20Book%20in%20db.jpeg
 
 ---
 

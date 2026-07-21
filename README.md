@@ -6,23 +6,20 @@ A modern mobile application built with React Native and Expo, integrated with Ap
 
 ## Screenshots
 
-### Register Screen
+### Welcome Screen
 https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/authentication%20(Register).jpeg
 
-### Login Screen
+### Authentication Screen
 https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/authentication%20(Login).jpeg
 
-### Home Screen
+### Profile Screen
 https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/Profile.jpeg
 
 ### Add Book Screen
 https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/Create%20Book%20in%20db.jpeg
 
-### Book List Screen
+### Books detail Screen
 https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/Fetch%20from%20db.jpeg
-
-### Delete Book Functionality
-https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/Delete%20Book%20in%20db.jpeg
 
 ---
 

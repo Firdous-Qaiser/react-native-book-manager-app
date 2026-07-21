@@ -13,10 +13,10 @@ https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Scre
 https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/authScreen.gif
 
 ### Profile Screen
-
+https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/profileScreen.gif
 
 ### Add Book Screen
-https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/Create%20Book%20in%20db.jpeg
+
 
 ### Books detail Screen
 https://github.com/Firdous-Qaiser/react-native-book-manager-app/blob/master/Screenshots/Fetch%20from%20db.jpeg
